@@ -1,3 +1,3 @@
 # CloudStudy
 
-- aws
+- aws : SAA
