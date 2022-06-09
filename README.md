@@ -1,3 +1,4 @@
 # CloudStudy
 
 - aws : SAA
+- GCP
