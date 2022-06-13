@@ -1,4 +1,4 @@
 # CloudStudy
 
 - aws : SAA
-- GCP
+- Google : GCP
