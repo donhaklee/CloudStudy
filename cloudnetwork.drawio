@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T12:31:08.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="9bm007r8o5lpWS7kwPOh" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T12:31:20.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZAKX_PAFg1Jr6UrSDCAh" version="20.2.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2489" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry x="291.5" y="280" width="115" height="85" as="geometry" />
         </mxCell>
         <mxCell id="jIkq9byRrZrJ422dzcRX-2455" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;192.168.103.0/24&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jIkq9byRrZrJ422dzcRX-2395" vertex="1">
-          <mxGeometry x="20" y="70" width="130" height="30" as="geometry" />
+          <mxGeometry x="180" y="250" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iJk9jmBaomr-SxnrDH5_-27" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l3_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="jIkq9byRrZrJ422dzcRX-2395">
           <mxGeometry x="283" y="100" width="50" height="50" as="geometry" />
@@ -443,9 +443,6 @@
             <mxPoint x="1255" y="930.0000000000005" as="sourcePoint" />
             <mxPoint x="1163.9999999999995" y="985.0000000000005" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iJk9jmBaomr-SxnrDH5_-29" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="520" y="186" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
