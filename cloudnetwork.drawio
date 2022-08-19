@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T12:23:52.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ASYNp1CdFv5G36pvcY_Z" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T12:24:28.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PLm6F1fj0TN8Zpm66jl_" version="20.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2905" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3384" dy="2452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
           <mxGeometry x="-11" y="1320" width="490" height="1870" as="geometry" />
         </mxCell>
         <mxCell id="jIkq9byRrZrJ422dzcRX-2257" value="VMnet 2 : Web Server&lt;br&gt;VMnet 3 : DB server&lt;br&gt;VMnet 4 : Dns server&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;VMnet 5 : DHCP server&lt;/span&gt;&lt;/div&gt;VMnet 6 : client1 (DBadmin)&amp;nbsp;&lt;br&gt;VMnet 7 : client2 (Floor2-1)&lt;br&gt;VMnet 9 : client3 (Floor2-2)&lt;br&gt;VMnet 10 : client4 (Floor3-1)&lt;br&gt;VMnet 11 : client5 (Floor3-2)&lt;br&gt;VMnet 12 : client6 (Floor4-1)&lt;br&gt;VMnet 13 : client7 (Floor4-2)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-40" width="170" height="370" as="geometry" />
+          <mxGeometry x="-220" y="-30" width="170" height="370" as="geometry" />
         </mxCell>
         <mxCell id="jIkq9byRrZrJ422dzcRX-2268" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="650.5" width="54" height="83" as="geometry" />
