@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T08:34:14.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XwiJLACV1POkZAThzl9A" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T08:41:03.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="llm6BiYVub5aOdmPe4Ts" version="20.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2782" dy="2319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -133,14 +133,14 @@
             <mxPoint x="283.25" y="96.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jIkq9byRrZrJ422dzcRX-2268" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="jIkq9byRrZrJ422dzcRX-2396" vertex="1">
-          <mxGeometry x="222" y="147" width="54" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="jIkq9byRrZrJ422dzcRX-2369" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="jIkq9byRrZrJ422dzcRX-2396" source="jIkq9byRrZrJ422dzcRX-2379" target="jIkq9byRrZrJ422dzcRX-2268" edge="1">
+        <mxCell id="jIkq9byRrZrJ422dzcRX-2369" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.501;entryY=-0.028;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="jIkq9byRrZrJ422dzcRX-2396" source="jIkq9byRrZrJ422dzcRX-2379" target="n1HqKrms5h1b-jpmMQ7X-4" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="280" y="102" as="sourcePoint" />
-            <mxPoint x="336.77000000000317" y="-156.00000000000023" as="targetPoint" />
+            <mxPoint x="249" y="147" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n1HqKrms5h1b-jpmMQ7X-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MariaDB_Server.svg;" vertex="1" parent="jIkq9byRrZrJ422dzcRX-2396">
+          <mxGeometry x="219.37" y="156" width="59.25" height="79" as="geometry" />
         </mxCell>
         <mxCell id="jIkq9byRrZrJ422dzcRX-2395" value="&lt;h1&gt;3층 Area 30&lt;/h1&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=#d0cee2;rounded=0;whiteSpace=wrap;html=1;strokeColor=#56517e;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="790" width="460" height="420" as="geometry" />
