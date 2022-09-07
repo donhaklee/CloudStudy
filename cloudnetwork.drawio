@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T07:42:30.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nGm4NcHuKLZ-5sd-h3Zg" version="15.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-07T07:44:54.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gCZeugJNKFGVdw47xnx-" version="15.5.4" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="On-premise">
-    <mxGraphModel dx="2130" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,7 +531,7 @@
           <mxGeometry x="-80" y="260" width="300" height="438.5" as="geometry" />
         </mxCell>
         <mxCell id="xaOwjZGaFLKH7q-O83-j-4" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="S0JvwjSjkKhjctZ9xRPf-1">
-          <mxGeometry x="-130" y="180" width="900" height="638.5" as="geometry" />
+          <mxGeometry x="-130" y="180" width="760" height="550" as="geometry" />
         </mxCell>
         <mxCell id="t8igir6g4PaIUHkTY7IA-5" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="S0JvwjSjkKhjctZ9xRPf-1">
           <mxGeometry x="-60" y="310" width="260" height="210" as="geometry" />
